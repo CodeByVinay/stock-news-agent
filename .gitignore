@@ -1,0 +1,5 @@
+seen.db
+start.bat
+.env
+__pycache__/
+*.zip
